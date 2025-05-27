@@ -51,10 +51,12 @@ Project documentation is available in the [/docs](/docs) directory:
 Try out CRM: [Live Demo](https://crm-demo-easymind-svelte.vercel.app)
 
 Demo credentials:
+
 - Username: `testuser`
 - Password: `demo1234`
 
 ### Note
+
 The backend project is hosted on a free instance web service on Render. As a result, it may be idle sometimes, causing the initial load to be slow. However, once the application is loaded, it should work normally.
 
 ## Getting Started
@@ -74,6 +76,7 @@ pnpm install
 3. Set up environment variables:
 
 Create a `.env` file in the root directory:
+
 ```env
 API_URL="https://crm-demo-aufh.onrender.com/api"
 ```
@@ -173,4 +176,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Last Updated: January 27, 2025
+Last Updated: May 27, 2025
